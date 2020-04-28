@@ -7,19 +7,10 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/text1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Alla mappa"
+        android:text="La mappa qui"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
-
-    <Button
-        android:id="@+id/buttonMap"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Mappa"
-        android:layout_below="@id/text1"
-        android:layout_centerHorizontal="true"/>
 
 </RelativeLayout>
